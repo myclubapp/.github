@@ -1,14 +1,19 @@
-## Hi there 👋
-
-
-🙋‍♀️ this is my-club app | the next generation
+# 🙋‍♀️ this is my-club app | the next generation 👋
 myclub App is the way for floorball, handball & volleyball clubs in switzerland to manage their club. Based on real data from swissunihockey, swiss volley and swiss handball association, we generate real value for the users, so they can focus an what matters most, their success!
 
-🌈 Contribution guidelines - how can you be a part of it?
+# 🌈 Contribution guidelines - how can you be a part of it?
+
+
+# 👩‍💻 Useful resources - where did you get the relevant information?
+myclub App's architecture follows these principles:
+- mobile first
+- always bet on the web
+the latest version of the app is always available as PWA. In a second stage we also support iOS and Android Apps.
+
 ## Backend Data
 We use a GraphQL API for Sports Data. Check this [repository](https://github.com/myclubapp/backend).
 
-# Developer
+# 👨‍💻 Developer
 ## Create App Icon & Splash Screen
 - Generate your app icon and splash screens using cordova-res --skip-config --copy
 - Icon generator for manifest [Link](https://manifest-gen.netlify.app/)
@@ -39,7 +44,7 @@ Light Mode: ``pwa-asset-generator ./resources/icon.png -i ./src/index.html -m ./
 - Ionicons
 
 
-# CUSTOM Apps
+# 🚨 CUSTOM Apps
 
 ## Available Custom Apps: 
 - Kadetten Unihockey Schaffhausen [Link](https://kadetten-unihockey.web.app)
@@ -73,14 +78,7 @@ then, copy icons to src/custom_themes/app-CUSTOM/assets
 Also upload login.jpg to /bg and create favicon.
 
 
-👩‍💻 Useful resources - where did you get the relevant information?
-myclub App's architecture follows these principles:
-- mobile first
-- always bet on the web
-the latest version of the app is always available as PWA. In a second stage we also support iOS and Android Apps.
-
-
-🍿 Just for fun
+# 🍿 Just for fun
 
 App Build: [![Build + Prerender + Deploy](https://github.com/myclubapp/app/actions/workflows/main.yml/badge.svg)](https://github.com/myclubapp/app/actions/workflows/main.yml)
 
