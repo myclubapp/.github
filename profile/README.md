@@ -2,7 +2,7 @@
 myclub App is the way for floorball, handball & volleyball clubs in switzerland to manage their club. Based on real data from swissunihockey, swiss volley and swiss handball association, we generate real value for the users, so they can focus an what matters most, their success!
 
 # 🌈 Contribution guidelines - how can you be a part of it?
-
+todo :)
 
 # 👩‍💻 Useful resources - where did you get the relevant information?
 myclub App's architecture follows these principles:
@@ -79,7 +79,6 @@ Also upload login.jpg to /bg and create favicon.
 
 
 # 🍿 Just for fun
-
-App Build: [![Build + Prerender + Deploy](https://github.com/myclubapp/app/actions/workflows/main.yml/badge.svg)](https://github.com/myclubapp/app/actions/workflows/main.yml)
+App build: [![Build + Prerender + Deploy](https://github.com/myclubapp/app/actions/workflows/main.yml/badge.svg)](https://github.com/myclubapp/app/actions/workflows/main.yml)
 
 Backend build: [![Build + Deploy](https://github.com/myclubapp/backend/actions/workflows/main.yml/badge.svg)](https://github.com/myclubapp/backend/actions/workflows/main.yml)
